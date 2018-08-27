@@ -1,6 +1,6 @@
 ---
 title: "City of Austin Design & Technology Policy"
-layout: how-we-work
+layout: landing-page
 
 
 permalink: /index.html
