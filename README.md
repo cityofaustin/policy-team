@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This repo is for sharing information about the City of Austin's new team that’s collecting data and developing policy to support Austin’s design and technology transformation
 
 The code is forked [odd.austintexas.io](http://odd.austintexas.io), which is forked from [usds.gov](https://usds.gov), which is built on the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) and uses Jekyll to generate static pages.
