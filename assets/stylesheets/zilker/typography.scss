@@ -58,20 +58,20 @@ h2 {
 
 
 
-section.blue-back h1,
-section.blue-back h2,
-section.blue-back h3 {
+section.gray-back h1,
+section.gray-back h2,
+section.gray-back h3 {
   color: white;
   margin-bottom: 0;
 }
 
-section.blue-back h3 {
+section.gray-back h3 {
   padding-bottom: 0;
   margin-bottom: 0;
   max-width: 720px;
 }
 
-section.blue-back h3 .red {
+section.gray-back h3 .red {
   color: #F37262;
 }
 
@@ -79,7 +79,7 @@ body.how-we-work-page {
   padding: 20px 20px 20px 20px;
 }
 
-section.blue-back h4 {
+section.gray-back h4 {
   color: #ddd;
   padding-top: 0;
   margin-top: 0;
@@ -87,16 +87,16 @@ section.blue-back h4 {
 }
 
 
-.blue-back h2.first-line {
+.gray-back h2.first-line {
   // color: #ddd;
   padding-top: 3em;
 }
 
-.blue-back h2.second-line {
+.gray-back h2.second-line {
   padding-bottom: 2em;
 }
 
-section.blue-back h2 {
+section.gray-back h2 {
   max-width: 750px;
 }
 
@@ -110,20 +110,20 @@ section.blue-back h2 {
   padding-right: 20px;
 }
 
-#goals h2 {
+#efforts h2 {
   color: #444;
   padding-bottom: .5em;
 }
 
-#goals h2.slides-header {
+#efforts h2.slides-header {
   padding-bottom: 0;
 }
 
-#goals .principle-details {
+#efforts .principle-details {
   // margin-left: 0;
 }
 
-#goals .principle-details h4 {
+#efforts .principle-details h4 {
   color: #F37262;
 }
 
@@ -157,10 +157,14 @@ h3 {
   margin-top: 1em;
 }
 
-.principle h3 {
-  margin-top: .3em;
+.principles h3 {
+  margin-top: 2em;
   margin-bottom: 1em;
   color: #666;
+}
+
+.principles h4 {
+  margin-bottom: 0;
 }
 
 h4 {
