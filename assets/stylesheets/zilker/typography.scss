@@ -21,7 +21,7 @@ h2 {
   font-size: $h2-font-size;
   font-weight: $font-bold;
   margin-top: 60px;
-  margin-bottom: 20px;
+  margin-bottom: 8px;
   padding: 0;
   // &:after {
   //   width: 40px;
@@ -61,7 +61,7 @@ h2 {
 section.gray-back h1,
 section.gray-back h2,
 section.gray-back h3 {
-  color: white;
+  color: #000;
   margin-bottom: 0;
 }
 
