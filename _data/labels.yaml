@@ -12,11 +12,11 @@ last_revision_prefix: Updated
 footer_credits: Office of Communications & Technology Management  •  Office of Telecommunications & Regulatory Affairs
 site_nav:
 
-# social_icons:
-#   medium_path: https://medium.com/civiqueso
-#   medium_title: Medium Posts from @civiqueso
-#   github_path: https://github.com/cityofaustin
-#   github_title: Check out the City of Austin's Design, Technology, and Innovation projects
-#   twitter_path: https://twitter.com/civiqueso
-#   twitter_title: Tweets from @civiqueso
+social_icons:
+  medium_path: https://medium.com/civiqueso
+  medium_title: Medium Posts from @civiqueso
+  github_path: https://github.com/cityofaustin/policy-team
+  github_title: Repo on Github
+  twitter_path: https://twitter.com/civiqueso
+  twitter_title: Tweets from @civiqueso
 # job_apply_button_text: Apply Now
